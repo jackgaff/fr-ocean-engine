@@ -1,4 +1,6 @@
-![fr‑ocean engine logo](./fr-ocean-logo.png)
+<p align="center">
+  <img src="./fr-ocean-logo.png" alt="fr‑ocean engine logo" width="200"/>
+</p>
 
 # fr‑ocean engine
 
