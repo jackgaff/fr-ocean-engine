@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="fr-ocean-logo.png" alt="fr‑Ocean Engine Logo" width="300"/>
+</p>
+
 # fr‑ocean engine
 
 A cross‑platform 2D C++ game engine with physics, scripting, and rendering capabilities.
