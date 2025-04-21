@@ -50,8 +50,8 @@ This 2D game engine provides an easy‑to‑use framework for creating 2D games 
 #### Windows
 
 ```bash
-git clone https://github.com/yourusername/game_engine.git
-cd game_engine
+git clone https://github.com/jackgaff/fr-ocean-engine.git
+cd fr-ocean-engine
 mkdir build
 cd build
 cmake -G "Visual Studio 17 2022" ..
@@ -63,8 +63,8 @@ cpack                                  # create .zip / .tgz packages
 #### macOS
 
 ```bash
-git clone https://github.com/yourusername/game_engine.git
-cd game_engine
+git clone https://github.com/jackgaff/fr-ocean-engine.git
+cd fr-ocean-engine
 mkdir build
 cd build
 cmake ..
@@ -82,8 +82,8 @@ cmake -G Xcode ..
 #### Linux
 
 ```bash
-git clone https://github.com/yourusername/game_engine.git
-cd game_engine
+git clone https://github.com/jackgaff/fr-ocean-engine.git
+cd fr-ocean-engine
 mkdir build
 cd build
 cmake ..
